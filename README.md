@@ -34,4 +34,4 @@ Proje bağımlılıklarını yüklemek ve yerel sunucuda (Localhost) çalıştı
 * **Uzak Durum Yönetimi:** Birden fazla birbiriyle ilişkili state yapısının tek bir mantıksal döngü (Döngüsel Pomodoro Algoritması) altında birleştirilmesi.
 
 
-https://roadmap.sh/projects/pomodoro-timer
+https://roadmap.sh/projects/pomodoro-timer 
