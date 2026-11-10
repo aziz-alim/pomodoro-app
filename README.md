@@ -1,4 +1,3 @@
-# React + Vite
 # Responsive Pomodoro Timer Application
 
 Bu proje; Pomodoro tekniğini temel alan, kullanıcıların çalışma ve mola seanslarını real-time yönetmesini sağlayan, mobil uyumlu (responsive) ve erişilebilirlik standartlarına uygun modern bir web uygulamasıdır. Proje, frontend geliştirme süreçlerinde durum yönetimi (state management) ve zamanlayıcı (timer loops) optimizasyonlarını pratik etmek amacıyla React mimarisiyle inşa edilmiştir.
